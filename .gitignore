@@ -1,0 +1,5 @@
+data/*
+venv
+kek_venv
+.env
+poetry.lock
